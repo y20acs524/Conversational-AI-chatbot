@@ -220,14 +220,14 @@ def chat_with_assistant():
 
 # Function to get weather data
 def get_weather(city_name):
-    api_key = "cf03632e4bf64df5a2585333242002"
+    api_key = "open_weather_api_key"
     url = f"http://api.weatherapi.com/v1/current.json?key={api_key}&q={city_name}"
     response = requests.get(url)
     data = response.json()
     return data
 
 def fetch_news(query):
-    NEWS_API_KEY = '81f45886914a40a39370cdcb18771d92'
+    NEWS_API_KEY = 'news_api_key'
     NEWS_API_URL = 'https://newsapi.org/v2/everything'
     params = {
         'apiKey': NEWS_API_KEY,
