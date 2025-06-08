@@ -1,8 +1,8 @@
-I did a chatbot project using python,NLP and generative AI technology which are freely available for users.The welcome interface looks like the below picture.
+This is a chatbot project made using python,NLP and generative AI technology which are freely available for users.The welcome interface looks like the below picture.
 
 ![Screenshot 2024-07-19 184729](https://github.com/user-attachments/assets/f7fc10cd-8394-4327-a4f4-e69a77c5387f)
 
-It we select the "chat with PDFs" option.Then the interface will look like this.
+If we select the "chat with PDFs" option.Then the interface will look like this.
 
 ![Screenshot 2024-07-19 185212](https://github.com/user-attachments/assets/d1166263-03b3-4e4b-86f5-6177fc715c91)
 
